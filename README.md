@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Fabiana Casagrande
-- 👀 I’m interested in development, customer services and other projects in IT
-- 🌱 I’m currently learning java and JS frameworks
+- 👀 I’m interested in development skills
+- 🌱 I’m Java Full Stack Dev
 - 📫 How to reach me: fabianatc@gmail.com
