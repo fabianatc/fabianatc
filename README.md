@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Fabiana Casagrande
-- 👀 I’m interested in development skills
-- 🌱 I’m Java Full Stack Dev
+- 👀 I’m interested in software development skills
+- 🌱 I’m Software Developer - Java
 - 📫 How to reach me: fabianatc@gmail.com
